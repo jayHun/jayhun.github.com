@@ -1,2 +1,2 @@
-# jayhun.github.com
+# jayhun.github.io
 homepage testing
